@@ -2,6 +2,8 @@
 
 The test were done using Playwright (1.56) and Typescript.
 
+Test cases can be found in the `test-documents` folder
+
 To install the test on local machine, follow the steps below:
 1. Clone this repository
 2. Run `npm install` to install dependencies
